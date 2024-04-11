@@ -5,6 +5,5 @@ export function rating(a) {
     for (let i = 0; i < b; i++) {
         result += '⭐'; 
     }
-
     return result; 
 }

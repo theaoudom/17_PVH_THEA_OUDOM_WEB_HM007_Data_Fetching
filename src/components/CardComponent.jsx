@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'next/link';
-import { getAllMovie, getMovie } from '@/services/AllMovie.service';
+import { getMovie } from '@/services/AllMovie.service';
 
 const CardComponent = async ({data}) => {
   const dataMovie = await getMovie(data);

@@ -1,5 +1,4 @@
 import React from 'react'
-import CardComponent from './CardComponent'
 import { getAllMovie } from '@/services/AllMovie.service'
 import CardAllMovieComponent from './CardAllMovieComponent'
 

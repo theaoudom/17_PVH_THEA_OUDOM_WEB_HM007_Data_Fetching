@@ -11,7 +11,6 @@ const NavbarComponent = () => {
             <Link className="flex items-center space-x-3 rtl:space-x-reverse w-1/2" href="/">
                 <div className='py-3'>
                   <img src='../legend_logo.png' className=" w-28 text-white" alt="Flowbite Logo" />
-                  {/* <span className="self-center text-[10px] font-semibold whitespace-nowrap text-white">រោងភាពយន្ត​ លេជេន</span> */}
                 </div>
             </Link>
             {/* Menu and Search  */}
